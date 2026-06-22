@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_kenzo.mk
+    $(LOCAL_DIR)/redline_kenzo.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_kenzo-user \
-    dot_kenzo-userdebug \
-    dot_kenzo-eng
+    redline_kenzo-user \
+    redline_kenzo-userdebug \
+    redline_kenzo-eng
